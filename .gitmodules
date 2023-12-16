@@ -1,3 +1,6 @@
 [submodule "2023-PMec-Flying"]
 	path = 2023-PMec-Flying
 	url = git@github.com:Flying-Robots-Pequi/2023-PMec-Flying.git
+[submodule "flying-robots-2024"]
+	path = flying-robots-2024
+	url = git@github.com:Flying-Robots-2024/flying-robots-2024.git
